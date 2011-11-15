@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: mirrormonkey
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Layer: mirrormonkey/layer.xml
+OpenIDE-Module-Localizing-Bundle: mirrormonkey/Bundle.properties
+
